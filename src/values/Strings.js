@@ -1,0 +1,1 @@
+export const NAME_APP = 'E ai?';
